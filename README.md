@@ -1,18 +1,18 @@
 # Predictive-maintenance-of-machine-failure
 
-Case study 1 - Predictive maintenance of machine failure
-1.Business Problem
+# Case study 1 - Predictive maintenance of machine failure
+# 1.Business Problem
 
-1.1 Description
+# 1.1 Description
 
 Sources : https://www.kaggle.com/yuansaijie0604/xinjiang-pm
 
-Problem Statement:
+# Problem Statement:
 
 The business problem for this example is about predicting problems caused by component failures such that the question "What is
 the probability that a machine will fail in the near future due to a failure of a certain component?" can be answered.
 
-1.2 Overview of the Problem
+# 1.2 Overview of the Problem
 
 Predictive maintenance for industry 4.0 is a method of preventing asset failure by analyzing production data to identify patterns and
 predict issues before they happen. It is not a surprise therefore, that predictive maintenance has quickly emerged as a leading
@@ -25,7 +25,7 @@ with delays in the production process due to mechanical problems. Most of these 
 problems in advance so that they can proactively prevent the problems before they occur which will reduce the costly impact caused
 by downtime.
 
-1.3 Real-world/Business objectives and constraints:
+# 1.3 Real-world/Business objectives and constraints:
 
 1. Interpretability is important.
 2. Errors can be very costly.

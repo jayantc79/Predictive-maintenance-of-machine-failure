@@ -1,5 +1,3 @@
-# Predictive-maintenance-of-machine-failure
-
 # Case study 1 - Predictive maintenance of machine failure
 # 1.Business Problem
 

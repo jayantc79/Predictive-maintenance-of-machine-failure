@@ -28,3 +28,7 @@ by downtime.
 1. Interpretability is important.
 2. Errors can be very costly.
 3. Probability of a data-point belonging to each class i
+
+
+# Published blog:
+https://jayantchaudhari.medium.com/predictive-maintenance-of-machine-failure-through-machine-learning-b42a5c731a0c
